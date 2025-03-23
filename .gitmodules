@@ -1,0 +1,3 @@
+[submodule "factbook.json"]
+	path = factbook.json
+	url = https://github.com/exampleuser/factbook.json
