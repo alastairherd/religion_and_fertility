@@ -1,0 +1,14 @@
+[project]
+name = "factbook-analysis"
+version = "0.1.0"
+description = "Analysis of CIA World Factbook data including religion, fertility, and socio-economic indicators"
+requires-python = ">=3.12"
+
+dependencies = [
+    "pandas",
+    "numpy",
+    "seaborn",
+    "statsmodels",
+    "scikit-learn",
+    "jupyter",
+]
